@@ -1,1 +1,1 @@
-# AI-Midsem-report
+#THE COLLECTIVES-AI-LAB8
