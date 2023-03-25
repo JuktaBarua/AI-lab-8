@@ -1,3 +1,8 @@
+# here we have choosen machine to play with the machine itself for training/gaining experience
+
+# learning phase - machine with machine
+# playing phase - machine with human
+
 # To Generate Random numbers
 import random
 # To Generate data structures more powerful than in built data types
